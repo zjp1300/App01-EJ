@@ -1,0 +1,10 @@
+html{
+    font: normal 14px "微软雅黑" ;
+    color: #666;
+}
+body {
+    margin: 0;
+}
+.el-menu{
+    border-right: none;
+}
